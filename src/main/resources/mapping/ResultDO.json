@@ -1,0 +1,15 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/result"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "body": "{\"status\":0,\"data\":{\"name\":\"name-test\",\"pass\":\"pass-test\"}}"
+  }
+}
+
+
